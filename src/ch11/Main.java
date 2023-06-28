@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         try {
-            int term = 10;
+            int term = 50;
             int amount = 240;
             int result = amount / term;
 
