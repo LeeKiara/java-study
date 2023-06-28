@@ -9,7 +9,7 @@ public class Main {
             int amount = 240;
             int result = amount / term;
 
-            System.out.println("한달에 "+result+"만원");
+            System.out.println("한달에 "+result+" 만원......");
 
         } catch (ArithmeticException ae) {  // 특정 예외 상황
             System.out.println("산술연산 예외 발생 : "+ae.getMessage());
